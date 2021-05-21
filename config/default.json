@@ -1,0 +1,8 @@
+{
+  "mongoURI": "mongodb+srv://sushank3100:sushank3100@mailactivation.ej4yq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "1ba2607492257092a606",
+  "githubSecret": "bcc6bf54a1d948b8e195e75cb053559114d23e7c",
+  "mailGunApiKey": "13d3f43aad6231f68dc317b8092f5d5f-6ae2ecad-3f1891e2",
+  "clientUrl": "http://localhost:3000"
+}
