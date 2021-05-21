@@ -45,7 +45,7 @@ router.post(
         { expiresIn: '3000m' }
       );
       const data = {
-        from: 'noreply@Me2Me.com',
+        from: 'noreply@VNRNetwork.com',
         to: email,
         subject: 'Account Activation Link',
         html: `

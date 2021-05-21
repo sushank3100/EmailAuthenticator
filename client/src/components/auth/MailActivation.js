@@ -13,8 +13,8 @@ const MailActivation = ({ activateMail }) => {
   return (
     <Fragment>
       <h2 className='text-primary'>
-        You are almost done. To Activate Your Account on Me2Me Please Click on
-        the Activate Account !
+        You are almost done. To Activate Your Account on VNRNetwork Please Click
+        on the Activate Account !
       </h2>
       <form className='form' onSubmit={(e) => onSubmit(e)}>
         <input

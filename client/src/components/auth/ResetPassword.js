@@ -38,8 +38,8 @@ const ResetPassword = ({ setAlert, resetPassword, isAuthenticated }) => {
   return (
     <Fragment>
       <h2 className='text-primary'>
-        You are almost done. To Reset Password to Your Account on Me2Me Please
-        Enter New Password and Click on the Reset Password !
+        You are almost done. To Reset Password to Your Account on VNRNetwork
+        Please Enter New Password and Click on the Reset Password !
       </h2>
       <form className='form' onSubmit={(e) => onSubmit(e)}>
         <div className='form-group'>

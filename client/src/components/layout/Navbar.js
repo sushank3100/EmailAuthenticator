@@ -37,7 +37,7 @@ const Navbar = ({ auth: { isAuthenticated, loading } }) => {
     <nav className='navbar bg-dark'>
       <h1>
         <Link to='/'>
-          <i className='fas fa-code'></i> DevConnector
+          <i className='fas fa-code'></i> VNRNetwork
         </Link>
       </h1>
       {!loading && (
