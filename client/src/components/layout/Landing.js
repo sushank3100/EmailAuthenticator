@@ -13,8 +13,8 @@ const Landing = ({ isAuthenticated }) => {
         <div className='landing-inner'>
           <h1 className='x-large'>VNRNetwork Connector</h1>
           <p className='lead'>
-            Create a developer profile/portfolio, share posts and get help from
-            other developers
+            Create a member profile/portfolio, share posts and get help from
+            other members
           </p>
           <div className='buttons'>
             <Link to='/register' className='btn btn-primary'>
