@@ -6,7 +6,7 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const config = require('config');
 const mailgun = require('mailgun-js');
-const DOMAIN = 'sandboxbdcaf9e7bcd44736a43d12bc6bd0ee34.mailgun.org';
+const DOMAIN = '';
 const mg = mailgun({ apiKey: config.get('mailGunApiKey'), domain: DOMAIN });
 
 router.put('/', (req, res) => {
